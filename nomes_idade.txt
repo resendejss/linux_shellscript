@@ -1,0 +1,10 @@
+Marcos,45
+Bruno,67
+Ana,78
+Fernanda,65
+Rafael,44
+Rita,56
+Yan,34
+Wellington,45
+Bruna,57
+Paula,58
